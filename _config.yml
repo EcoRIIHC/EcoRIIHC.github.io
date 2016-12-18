@@ -1,0 +1,40 @@
+# Site settings
+name: Less Or More
+email: lhch35@126.com
+author: HC
+url: 
+resume_site: 
+github: 
+baseurl: ""
+description: Actually, less is more!
+meta_description: HC;个人博客;
+motto: Glory is fleeting.
+encoding: utf-8
+# banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: EcoRIIHC
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : luoyan35714
+    disqus :
+        short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
+
+gems: [jekyll-paginate]
