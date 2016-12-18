@@ -1,16 +1,16 @@
 # Site settings
-name: Less Or More
+name: HC is on the way.
 email: lhch35@126.com
 author: HC
 url: 
 resume_site: 
 github: 
 baseurl: ""
-description: Actually, less is more!
+description: Glory is fleeting.
 meta_description: HC;个人博客;
 motto: Glory is fleeting.
 encoding: utf-8
-# banner: 学而不思则罔，思而不学则殆。
+banner: Tech
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
