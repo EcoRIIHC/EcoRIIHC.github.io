@@ -26,11 +26,11 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : HCare
+    provider : duoshuo
     duoshuo:
-        short_name : luoyan35714
-    # disqus :
-    #     short_name : freudkang
+        short_name : HCare
+    disqus :
+        short_name : disqushc
     # facebook :
     #   appid : 123
     #   num_posts: 5
