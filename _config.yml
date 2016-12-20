@@ -24,13 +24,13 @@ highlighter: rouge
 # Build settings
 markdown: kramdown
 
-FB:
-  comments :
-    provider : disqus
-    duoshuo:
-        short_name : HCare
-    disqus :
-        short_name : disqushc
+# FB:
+#   comments :
+#     provider : disqus
+#     duoshuo:
+#         short_name : HCare
+#     disqus :
+#         short_name : disqushc
     # facebook :
     #   appid : 123
     #   num_posts: 5
