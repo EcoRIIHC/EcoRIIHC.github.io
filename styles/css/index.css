@@ -6085,8 +6085,8 @@ pre code {
 h1,
 h2,
 h3 {
-  margin-top: 30px;
-  margin-bottom: 15px;
+  margin-top: 50px;
+  /*margin-bottom: 15px;*/
 }
 *,
 *:before,
@@ -6320,7 +6320,7 @@ hr {
 }
 /* Page headers */
 .docs-header {
-  padding: 30px 15px 50px;
+  padding: 30px 15px 36px;
   /* side padding builds on .container 15px, so 30px */
   font-size: 16px;
   text-align: center;
