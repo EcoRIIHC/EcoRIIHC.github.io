@@ -52,6 +52,7 @@ for(let i = 0, item; item = jsScript[i++]; ) {
     var jsScript = ['1.js','2.js','3.js','4.js','core.js','4.js', '5.js','6.js'];
     loadScript(jsScript);
 ``` 
+
 其他方法
-----------------------
+-------------------
 LABjs貌似就是干专门干这个事的0.0
