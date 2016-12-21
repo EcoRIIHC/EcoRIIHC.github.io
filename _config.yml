@@ -24,6 +24,9 @@ highlighter: rouge
 # Build settings
 markdown: kramdown
 
+FB:
+    comments:
+      provider: youyan
 # FB:
 #   comments :
 #     provider : disqus
