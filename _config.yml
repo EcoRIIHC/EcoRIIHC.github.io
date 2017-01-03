@@ -5,7 +5,8 @@ author: HC
 url: 
 resume_site: 
 github: 
-baseurl: ""
+# baseurl: "http://127.0.0.1:4000/"
+baseurl: "https://ecoriihc.github.io/"
 description: Glory is fleeting.
 meta_description: HC;个人博客;
 motto: Glory is fleeting.
